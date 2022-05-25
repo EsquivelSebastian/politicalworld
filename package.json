@@ -1,0 +1,26 @@
+{
+  "name": "verceltemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsquivelSebastian/verceltemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsquivelSebastian/verceltemplate/issues"
+  },
+  "homepage": "https://github.com/EsquivelSebastian/verceltemplate#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  }
+}
